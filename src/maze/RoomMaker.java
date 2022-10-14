@@ -16,7 +16,7 @@ public class RoomMaker {
             System.out.println("\n"); } // printing 2D array using Arrays.deepToString() method System.out.println("another way to print 2D arrays");
         System.out.println(Arrays.deepToString(board));
 
-
+// index of beim array finden
 
 
         }
